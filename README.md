@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Xavier Alberto Castillo Varon</h1>
-<h3 align="center">A passionate backend developer from Colombia</h3>
+<h3 align="center">Proudly Colombian and Passionate about Backend Programming: Fueling my Desire to Become a Fullstack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=castilloxavie&label=Profile%20views&color=0e75b6&style=flat" alt="castilloxavie" /> </p>
 
@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/castilloxavie](https://github.com/castilloxavie)
 
-- 💬 Ask me about **Technologist at ADSI. I have the constant disposition for a new learning, I adapt easily to teamwork, I am responsible with the tasks to be carried out in the designated work. I have had various work experiences where each one has taught me various functionalities that can be shortened when working. In each of these jobs it has characterized me that I am always available to carry out new tasks to optimize the result.**
+- 💬 Ask me about **I am a junior ADSI developer technologist with intermediate skills in Python programming, Django web development, and SQL Server Management and MySQL databases. I also have basic knowledge in HTML, CSS and JavaScript, and I am constantly learning to improve my skills and knowledge in the field of software development. I have been trained in technological platforms such as Platzi and Alura, which has allowed me to obtain a solid base of knowledge and skills in the area. Technical skills: Python Programming: I have intermediate knowledge of the Python programming language and can develop solutions using the most common libraries, such as Pandas and Matplotlib. Web development with Django: I have learned to develop web applications using the Django framework, both in its 3.x and 4.x versions. I have experience creating models, views, templates and forms, as well as integrating with databases and deploying to cloud platforms. SQL Server Management and MySQL Databases: I have SQL Server Management and MySQL database management skills, I can design and develop efficient databases, perform basic queries and optimize query performance. Soft skills: Continuous learning: I am constantly learning and updating on the latest trends and technologies in the field of software development. Teamwork: I can work in a team effectively and collaboratively, communicating clearly and coming up with creative solutions to problems that arise. Proactivity: I have the ability to take the initiative in solving problems and carrying out tasks. Work experience: I don't have work experience in the field of software development, but I have small projects in my repository that have allowed me to apply my technical and soft skills. I am willing to learn and grow in a work environment.**
 
 - 📫 How to reach me **xcastillovaron93@gmail.com**
 
@@ -22,6 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/xavier-alberto-castillo-varon-081817232/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/xavier-alberto-castillo-varon-081817232/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/xavieralberto.castillovaron?mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/xavieralberto.castillovaron?mibextid=zbwkwl" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
