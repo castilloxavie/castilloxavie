@@ -1,51 +1,85 @@
-<h1 align="center">Hi 👋, I'm Xavier Alberto Castillo Varon</h1>
-<h3 align="center">Proudly Colombian and Passionate about Backend Programming: Fueling my Desire to Become a Fullstack Developer</h3>
+# 👋 Hi, I'm **Xavier Alberto Castillo Varon**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=castilloxavie&label=Profile%20views&color=0e75b6&style=flat" alt="castilloxavie" /> </p>
+### 🚀 Backend Developer | Full-Stack in Training  
+I am a passionate software developer focused on backend programming and building scalable, efficient solutions. I work with Python (Django, FastAPI), Node.js (Express, NestJS) and I am strengthening my full-stack skills with JavaScript and modern frameworks.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=castilloxavie" alt="castilloxavie" /></a> </p>
+---
 
-- 🔭 I’m currently working on **I'm currently not working on**
+## 🧠 About Me
 
-- 🌱 I’m currently learning **I am currently studying and deepening in python, django and sql learning css and javascript**
+- 🎓 Technologist in Systems Analysis and Information Development (ADSI), currently pursuing a **Bachelor’s degree in Software Engineering**.
+- 💻 Passionate about software development, with a focus on backend architectures and scalable solutions.
+- 🛠️ Experience and study in **backend development with Python and Node.js** (Express, NestJS), as well as RESTful APIs and process automation.
+- 🌱 Currently deepening knowledge in **Python (Django, FastAPI), SQL, JavaScript, Node.js (Express, NestJS) and CSS**.
+- 🤝 Open to **collaborating on projects and growing professionally with dynamic teams**.
 
-- 👯 I’m looking to collaborate on **Yes, I am looking to collaborate or work on projects and be able to grow professionally**
+---
 
-- 👨‍💻 All of my projects are available at [https://github.com/castilloxavie](https://github.com/castilloxavie)
+## 🔭 Currently Working On
 
-- 💬 Ask me about **Software Developer focused on scalability and intelligent automation.
+- Improving my skills in **full-stack web development**.
+- Building projects that follow best practices in architecture and documentation.
 
-As an IT professional, I dedicate myself to creating comprehensive digital ecosystems, from robust backend architectures using Python (Django, FastAPI) and Node.js (Express), to high-performance user interface development with React, Vite, and Next.js.
+---
 
-My goal goes beyond simply programming; I strive to improve processes. I integrate automation solutions like n8n to reduce operation times and design effective data architectures in both SQL and NoSQL environments, ensuring that data is the application's most valuable resource.
+## 🛠️ Technologies & Tools
 
-What can I contribute to your technical team?
+### Languages
+Python • JavaScript • SQL  
+### Backend
+Django • FastAPI • Node.js (Express, NestJS)  
+### Frontend
+React • Next.js • Vite  
+### Databases
+PostgreSQL • MySQL • NoSQL  
+### DevOps & Others
+Linux • Git • n8n (automation)
 
-Modern Full Stack Development: Creation of single-page applications and server-side rendering (SSR) projects, always focused on providing the best user experience and optimizing SEO.
+---
 
-APIs and Backend: Development of RESTful services and fast APIs using FastAPI, with a strong emphasis on security and documentation.
+## 📂 Featured Projects
 
-DevOps Culture and Infrastructure: Fluent in managing Linux environments and servers using the terminal and SSH.
+### Some of my most relevant repositories:
 
-Automation: Creation of intelligent workflows that link services and improve repetitive tasks.
+- **[Dealership Management](https://github.com/castilloxavie/gestion-concesionario-inventario)** – A REST API built with **FastAPI** to manage dealership inventory and operations.  
+  This project implements a **full CRUD** and **role-based access control**, allowing only specific user types to perform actions such as creating, updating, or deleting resources. It’s designed to demonstrate access control, security, and modern API best practices.
 
-I firmly believe that technology should be both efficient and scalable. My technical background, combined with my logical reasoning skills, allows me to quickly adapt to new challenges and complex architectures.**
+- **[SpyBee](https://github.com/castilloxavie/spybee-prueba)** – A frontend interface that consumes a Mapbox geolocation API to display locations on a map.  
+  When clicking a row in the table, the user is taken to the respective location and the map dynamically displays the selected point. This application shows integration with external APIs and dynamic handling of geospatial data.
 
-- 📫 How to reach me **xcastillovaron93@gmail.com**
+- **[Inventory Management System](https://github.com/castilloxavie/sistema_gestion_inventarios)** – A system to manage inventory with **role-based user control**.  
+  The app supports two types of users:  
+  - **Administrator:** Has full access to all system functions (create, read, update, delete).  
+  - **Seller:** Can view and register operations related to sales and inventory according to their role.  
+  This project demonstrates **authentication and role-based authorization**, typical inventory operations, stock control, and effective permission management.
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/xavier-alberto-castillo-varon-a540a1287/](https://www.linkedin.com/in/xavier-alberto-castillo-varon-a540a1287/)
+---
 
-<h3 align="left">Connect with me:</h3>
+## 📫 How to Reach Me
+
+📧 **Email:** xcastillovaron93@gmail.com  
+🔗 **LinkedIn:** https://www.linkedin.com/in/xavier-alberto-castillo-varon-a540a1287/
+
+---
+
+## 🔗 Let’s Connect
+
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/xavier-alberto-castillo-varon-081817232/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/xavier-alberto-castillo-varon-081817232/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/xavieralberto.castillovaron?mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/xavieralberto.castillovaron?mibextid=zbwkwl" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/xavier-alberto-castillo-varon-a540a1287/" target="_blank">LinkedIn</a>  
+  • 
+  <a href="https://github.com/castilloxavie" target="_blank">GitHub</a>  
+  • 
+  <a href="mailto:xcastillovaron93@gmail.com">Email</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=castilloxavie&show_icons=true&locale=en&layout=compact" alt="castilloxavie" /></p>
+## 📊 Statistics
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=castilloxavie&show_icons=true&locale=en" alt="castilloxavie" /></p>
+<p align="left">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=castilloxavie&show_icons=true&locale=en&layout=compact" alt="castilloxavie stats" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=castilloxavie&" alt="castilloxavie" /></p>
+---
+
+> 🌱 This profile will be updated with new projects and technologies as I continue to grow professionally.
