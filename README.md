@@ -13,7 +13,23 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/castilloxavie](https://github.com/castilloxavie)
 
-- 💬 Ask me about **I am a junior ADSI developer technologist with intermediate skills in Python programming, Django web development, and SQL Server Management and MySQL databases. I also have basic knowledge in HTML, CSS and JavaScript, and I am constantly learning to improve my skills and knowledge in the field of software development. I have been trained in technological platforms such as Platzi and Alura, which has allowed me to obtain a solid base of knowledge and skills in the area. Technical skills: Python Programming: I have intermediate knowledge of the Python programming language and can develop solutions using the most common libraries, such as Pandas and Matplotlib. Web development with Django: I have learned to develop web applications using the Django framework, both in its 3.x and 4.x versions. I have experience creating models, views, templates and forms, as well as integrating with databases and deploying to cloud platforms. SQL Server Management and MySQL Databases: I have SQL Server Management and MySQL database management skills, I can design and develop efficient databases, perform basic queries and optimize query performance. Soft skills: Continuous learning: I am constantly learning and updating on the latest trends and technologies in the field of software development. Teamwork: I can work in a team effectively and collaboratively, communicating clearly and coming up with creative solutions to problems that arise. Proactivity: I have the ability to take the initiative in solving problems and carrying out tasks. Work experience: I don't have work experience in the field of software development, but I have small projects in my repository that have allowed me to apply my technical and soft skills. I am willing to learn and grow in a work environment.**
+- 💬 Ask me about **Software Developer focused on scalability and intelligent automation.
+
+As an IT professional, I dedicate myself to creating comprehensive digital ecosystems, from robust backend architectures using Python (Django, FastAPI) and Node.js (Express), to high-performance user interface development with React, Vite, and Next.js.
+
+My goal goes beyond simply programming; I strive to improve processes. I integrate automation solutions like n8n to reduce operation times and design effective data architectures in both SQL and NoSQL environments, ensuring that data is the application's most valuable resource.
+
+What can I contribute to your technical team?
+
+Modern Full Stack Development: Creation of single-page applications and server-side rendering (SSR) projects, always focused on providing the best user experience and optimizing SEO.
+
+APIs and Backend: Development of RESTful services and fast APIs using FastAPI, with a strong emphasis on security and documentation.
+
+DevOps Culture and Infrastructure: Fluent in managing Linux environments and servers using the terminal and SSH.
+
+Automation: Creation of intelligent workflows that link services and improve repetitive tasks.
+
+I firmly believe that technology should be both efficient and scalable. My technical background, combined with my logical reasoning skills, allows me to quickly adapt to new challenges and complex architectures.**
 
 - 📫 How to reach me **xcastillovaron93@gmail.com**
 
